@@ -1,1 +1,1 @@
-# sapce-apps-2020
+# space-apps-2020
